@@ -1,10 +1,10 @@
 html { 
-  background: url(http://bit.ly/1Hy2jlJ) no-repeat center fixed;
+  background: url(https://www.flickr.com/photos/rp_ang/17893060192/in/explore-2015-05-20/) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
- }
+}
 .profile {
   text-align: center;
   background: lightgray;
@@ -14,11 +14,11 @@ html {
 .profile h1 {
    font-size: 16px;
    text-transform: uppercase;
- }
+}
 
- .profile img {
+.profile img {
    width: 100px;
    height: 100px;
    border-radius: 50px;
- }
+}
 
